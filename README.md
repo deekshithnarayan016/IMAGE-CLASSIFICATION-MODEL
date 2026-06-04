@@ -90,6 +90,6 @@ Overall, the project successfully implemented a CNN-based Image Classification S
 
 # OUTPUT
 
-![img](https://github.com/user-attachments/assets/eeb47d76-6616-4eeb-8929-c28e0ef40911)
+![img](https://github.com/user-attachments/assets/2e6d0383-8bf1-4bdd-b3bb-beaae2dd01c7)
 
 ![img](https://github.com/user-attachments/assets/47ed09ec-d95e-48cb-82ba-10a015956577)
