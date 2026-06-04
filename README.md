@@ -90,20 +90,6 @@ Overall, the project successfully implemented a CNN-based Image Classification S
 
 # OUTPUT
 
-* Trained CNN Model
-* Test Accuracy (~99%)
-* Sample Image Predictions
-* Accuracy and Loss Graphs
-* Classification Results
+![img](https://github.com/user-attachments/assets/eeb47d76-6616-4eeb-8929-c28e0ef40911)
 
----
-
-# RESULT
-
-The Convolutional Neural Network successfully classified handwritten digit images with high accuracy. The model demonstrated excellent performance on unseen test data and effectively recognized digit patterns from the MNIST dataset.
-
----
-
-# CONCLUSION
-
-The CNN-based Image Classification Model was successfully developed using TensorFlow and Keras. The model achieved outstanding performance on the MNIST dataset and demonstrated the effectiveness of Deep Learning techniques in image recognition tasks. This project provides a strong foundation for exploring advanced Computer Vision and Artificial Intelligence applications.
+![img](https://github.com/user-attachments/assets/47ed09ec-d95e-48cb-82ba-10a015956577)
